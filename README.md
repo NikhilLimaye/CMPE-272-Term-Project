@@ -3,11 +3,10 @@
 • Google and Facebook sign-in integration. Product sorting and filtering based on rating and view count.                         
 • Based on CURL calls to access remote company's data and integrate into the common market place.
  
- Website Link - https://marktplatz.vedantbhoj.com
+ Website Link - https://nikhilnlimaye.com/Marketplace/
  
  Demo Video Link - https://youtu.be/dT2U4Y_pgFk
  
- Course assignments - https://github.com/vedantbhoj/CMPE-272-Course_Assignments
  
 <html><body><div id=":tm" class="ii gt"><div id=":tl" class="a3s aXjCH "><div dir="ltr">
 <p class="m_4019359482948295490gmail-MsoNoSpacing" style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif">These are the test cases for the project - </p>
